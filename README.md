@@ -36,7 +36,7 @@ Install dependencies:
 1. **Clone the repository**:
 
    ```bash
-    git clone [https://github.com/JaishreeramCoder/top-starred-github-repos](https://github.com/yourusername/top-starred-github-repos)
+    git clone https://github.com/yourusername/top-starred-github-repos
 
     cd top-starred-repos
 
