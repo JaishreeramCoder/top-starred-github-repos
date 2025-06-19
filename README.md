@@ -1,4 +1,4 @@
-# # Top GitHub Repositories (20k+ Stars) and Their Organization Websites
+# Top GitHub Repositories (20k+ Stars) and Their Organization Websites
 
 This project collects all GitHub repositories with at least **20,000 stars**, overcomes the GitHub Search API 1,000‑result limit by slicing queries, and then resolves each repository’s owner (user or organization) homepage URL. The final output is an Excel file linking repository names to their organization websites.
 
